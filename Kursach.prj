@@ -1,0 +1,7 @@
+[ARCH]=00000000,Kursach.arh
+[SOURCE]=00000001,Kursach.asm
+[ROMSIZE]=4
+[FREQ]=10000000
+[FREEPINLEVEL]=1
+[WND.asm]=(510,65,2650,959)C:\Users\Alexander\Desktop\Курсач мпс\KursachGit\Kursach.asm
+[WND.arh]=(356,409,2496,1303)C:\Users\Alexander\Desktop\Курсач мпс\KursachGit\Kursach.arh
